@@ -63,12 +63,12 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Cara Pakai
--- **Clone the repository with git clone / download zip file
--- **Copy .env.example file to .env
--- **Edit database credentials in .env
--- **Run composer install
--- **Run php artisan key:generate
--- **Import sql file to your database
--- **Run php artisan serve
--- User : tes@gmail.com
--- Pass : tes123456
+-- **Clone the repository with git clone / download zip file**
+-- **Copy .env.example file to .env**
+-- **Edit database credentials in .env**
+-- **Run composer install**
+-- **Run php artisan key:generate**
+-- **Import sql file to your database**
+-- **Run php artisan serve**
+-- **User : tes@gmail.com**
+-- **Pass : tes123456**
